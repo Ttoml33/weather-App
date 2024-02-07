@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView txtResults;
     private EditText etCity,etCountry;
     private String url="http://api.openweathermap.org/data/2.5/weather";
-    private final String appID="902997e61bf2b4ec82f129b0a33a7ad6";
+    private final String appID="#get yor api key from open weather Api";
     private DecimalFormat decimalFormat = new DecimalFormat("#.##");
      private static final String TAG = "MainActivity";
 
